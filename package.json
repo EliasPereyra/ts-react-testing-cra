@@ -1,5 +1,6 @@
 {
   "name": "ts-react-testing-cra",
+  "author": "Elias Pereyra",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
