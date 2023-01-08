@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About the Project
-Proving different types of testing: for components, for events, for hooks async components and hooks. 
+This is a project learning purposes. Trying different types of testing: for components, for events, for hooks async components and hooks. 
 
 ### Built with
 - ![React.js][React.js]
