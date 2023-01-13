@@ -1,0 +1,11 @@
+.header {
+  padding: 1.3em;
+  background-color: rgb(96, 86, 243);
+}
+
+ul {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  align-items: center;
+}
