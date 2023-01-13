@@ -2,6 +2,12 @@
   "name": "ts-react-testing-cra",
   "author": "Elias Pereyra",
   "version": "0.1.0",
+  "keywords": [
+    "react",
+    "typescript",
+    "testing-library",
+    "jest"
+  ],
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
