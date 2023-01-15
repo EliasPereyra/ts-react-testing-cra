@@ -1,12 +1,14 @@
-function Header() {
+import "./styles.css";
+
+export function Header() {
   return (
     <section className="header">
       <ul className="header-items">
         <li>
-          <a>Home</a>
+          <a href="/">Home</a>
         </li>
         <li>
-          <a>Person</a>
+          <a href="/">Person</a>
         </li>
       </ul>
     </section>
