@@ -1,5 +1,3 @@
-import React from "react";
-
 function Sidebar({ items }: { items: { name: string; href: string }[] }) {
   return (
     <div>
