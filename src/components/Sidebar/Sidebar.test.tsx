@@ -1,4 +1,4 @@
-import Sidebar from "./Sidebar/Sidebar";
+import Sidebar from "./Sidebar";
 import { render, screen } from "@testing-library/react";
 
 test("renders a name", () => {
